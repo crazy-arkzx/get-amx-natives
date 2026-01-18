@@ -7,4 +7,4 @@ As I'm new to this, the code may not be very good, but it was the best I could d
 
 This served as a study of binary, P-Code, Assembly, disassemble, and lua. 
 
-I don't know if this code can be useful to you, but for me it was really useful, I'll leave it here if you want to use analyze or study
+I don't know if this code can be useful to you, but for me it was really useful, I'll leave it here if you want to use of analyze or study
