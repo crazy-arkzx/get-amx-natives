@@ -1,5 +1,5 @@
 *.p linguist-language=Pawn
 *.inc linguist-language=Pawn
 *.asm linguist-language=Assembly
-*.amx linguist-language=P-Code
+*.amx linguist-language=brainfuck
 *.lua linguist-language=Lua
